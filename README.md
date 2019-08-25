@@ -1,6 +1,6 @@
 ### MAC-changer-for-linux
 
-#Usage: mac_changer.py [options]
+<p>Usage: mac_changer.py [options]
 
 Options:
   -h, --help            show this help message and exit
@@ -8,4 +8,4 @@ Options:
                         Name of interface
   -m NEW_MAC, --mac=NEW_MAC
                         New MAC address of interface
-
+</p>
